@@ -1,4 +1,5 @@
-require_relative 
+require_relative '../lib/04_fourth_challenge.rb'
+
 
 def fourth_challenge
   epic_tragedy = {
